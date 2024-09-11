@@ -1,8 +1,3 @@
----
-layout: page
-title: "Welcome"
-permalink: /
----
 Welcome, 
 
 This is a place to keep records of multiple things I have an interest for. 
